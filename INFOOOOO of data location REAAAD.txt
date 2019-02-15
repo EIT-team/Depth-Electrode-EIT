@@ -1,0 +1,8 @@
+For examples of all outputs see folder
+
+Depth electrode github example
+
+This can be found on 
+1) eit-nas in folder shared/Mayo/
+2) hardrive that says 'Mayo Depth EIT example
+3) Research data space in folder Mayo
